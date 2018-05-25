@@ -1,3 +1,5 @@
+![](https://scontent.fhrk1-1.fna.fbcdn.net/v/t1.0-9/24293993_874487989395217_1488213834491182695_n.png?_nc_cat=0&oh=04adf1ff88877b45493318e06b57dbd7&oe=5B8B0ABD)
+
 # Что такое Playbook?
 
 Термин «playbook» пришёл из спорта. Это описание стратегии и тактических приемов команды. В нашем случае это открытый справочник по ценностям, бизнес-процессам, стандартам, процедурам и правилам, которые мы используем в команде разработки в Авито.
@@ -28,4 +30,14 @@ MAU	 | 32 млн. чел.
 Продано товаров в 2017 году	| 1,44 трлн рублей, или 1,56% ВВП России	
 ***
 
-![](https://scontent.fhrk1-1.fna.fbcdn.net/v/t1.0-9/24293993_874487989395217_1488213834491182695_n.png?_nc_cat=0&oh=04adf1ff88877b45493318e06b57dbd7&oe=5B8B0ABD)
+
+# Куда смотреть дальше? 
+
+- [Миссия и ценности Авито](https://github.com/avito-tech/playbook/blob/master/mission-and-values.md)
+- [Структура команд](https://github.com/avito-tech/playbook/blob/master/structure.md) 
+- [Процессы и стандарты в команде разработки](https://github.com/avito-tech/playbook/blob/master/processes-and-standards.md) 
+- [Целеполагание по OKR и процесс Performance Review](https://github.com/avito-tech/playbook/blob/master/goal-setting.md)
+- [Опенсорс-проекты сотрудников Авито](https://github.com/avito-tech/playbook/blob/master/avito-open-source.md) 
+- [Условия работы и как к нам попасть](https://github.com/avito-tech/playbook/blob/master/recruitment-and-office.md) 
+- [Обучение и развитие в команде](https://github.com/avito-tech/playbook/blob/master/training-and-development.md) 
+- [История Авито](https://github.com/avito-tech/playbook/blob/master/avito-history.md)
