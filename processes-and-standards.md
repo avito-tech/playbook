@@ -57,9 +57,10 @@
 
 Вот наши основные рабочие инструменты.  
 
-- Корпоративный мессенджер — Slack
-- Трекеры задач — Jira, Trello
-- База знаний и документация — Confluence
-- Аналитика — Tableau
-- VCS — Bitbucket
-- CI — TeamCity
+- Корпоративный мессенджер — [Slack](https://slack.com/)
+- Трекеры задач — [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/)
+- База знаний и документация — [Confluence](https://www.atlassian.com/software/confluence)
+- Аналитика — [Tableau](https://www.tableau.com/products/server)
+- VCS — Git ([Bitbucket Server](https://www.atlassian.com/software/bitbucket/server))
+- CI — [TeamCity](https://www.jetbrains.com/teamcity/)
+
