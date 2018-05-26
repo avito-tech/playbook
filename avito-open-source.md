@@ -3,6 +3,7 @@
 Многие из решений, разрабатываемых в Avito, могут приносить пользу не только нам, но и другим людям. При появлении такого проекта мы выносим его в [OSS сообщество](https://github.com/avito-tech) на GitHub. Наши библиотеки:
 - [Marshroute](https://github.com/avito-tech/Marshroute) - удобный и расширяемый роутинг в iOS-приложении
 - [Paparazzo](https://github.com/avito-tech/Paparazzo) - медиапикер для iOS приложений
+- [pg_reindex](https://github.com/avito-tech/pg_reindex) - переиндексирование баз данных PostgreSQL
 - [pg_metricus_c](https://github.com/avito-tech/pg_metricus_c) и [pg_metricus_python](https://github.com/avito-tech/pg_metricus_python) - сбор метрик из plpgsql кода
 - [bioyino](https://github.com/avito-tech/bioyino) - StatsD сервер на Rust
 - [krop](https://github.com/avito-tech/krop) - небольшой, но удобный виджет для простой реализации кропа фотографий в Android-приложениях
