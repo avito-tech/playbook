@@ -44,4 +44,4 @@ MAU	 | 32 млн. чел.
 - [Условия работы и как к нам попасть](https://github.com/avito-tech/playbook/blob/master/recruitment-and-office.md) 
 - [Обучение и развитие в команде](https://github.com/avito-tech/playbook/blob/master/training-and-development.md) 
 - [История Авито](https://github.com/avito-tech/playbook/blob/master/avito-history.md)
-- [Обучающие программы для студентов и молодых специалистов](https://github.com/avito-tech/playbook/blob/master/students.md)
+- [Образовательные программы для студентов и молодых специалистов](https://github.com/avito-tech/playbook/blob/master/students.md)
