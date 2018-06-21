@@ -21,12 +21,11 @@
 - [Разработчик Python](https://otus.ru/lessons/razrabotchik-python/)
 - [Data Scientist](https://otus.ru/lessons/data-scientist/)
 
-### Loftschool
+### [Loftschool](https://loftschool.com/)
 Наш front-end разработчик Сергей Мелюков преподаёт курс [«Комплексное обучение JavaScript»](https://loftschool.com/course/javascript)
 
-### html academy
+### [html academy](https://htmlacademy.ru/)
 Сотрудники Авито выступают в роли наставников для студентов платформы и готовят для выпускников курсов практические задачи.
 
-### GeekBrains
+### [GeekBrains](https://geekbrains.ru/)
 Мобильный разработчик Алексей Кудрявцев провёл [курс авторских вебинаров о CoreData](https://geekbrains.ru/posts/CoreData_Avito_course).
-
