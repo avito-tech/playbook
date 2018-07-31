@@ -42,6 +42,7 @@ MAU	 | 32 млн. чел.
 - [Целеполагание по OKR и процесс Performance Review](https://github.com/avito-tech/playbook/blob/master/goal-setting.md)
 - [Опенсорс-проекты сотрудников Авито](https://github.com/avito-tech/playbook/blob/master/avito-open-source.md) 
 - [Условия работы и как к нам попасть](https://github.com/avito-tech/playbook/blob/master/recruitment-and-office.md) 
+- [Управление продуктом](https://github.com/avito-tech/playbook/blob/master/product-management.md)
 - [Обучение и развитие в команде](https://github.com/avito-tech/playbook/blob/master/training-and-development.md) 
 - [История Авито](https://github.com/avito-tech/playbook/blob/master/avito-history.md)
 - [Образовательные программы для студентов и молодых специалистов](https://github.com/avito-tech/playbook/blob/master/students.md)
