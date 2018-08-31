@@ -16,6 +16,9 @@
 Помимо Авито, наша команда разрабатывает сервисы [Автотека](https://autoteka.ru/) и [Domofond.ru](https://www.domofond.ru/).
 
 ***
+# Технологический стек Авито
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/avito/avito)
+[Технический радар](https://techradar.avito.ru)
 
 # Авито в цифрах 
 
@@ -38,7 +41,6 @@ MAU	 | 32 млн. чел.
 - [Миссия и ценности Авито](https://github.com/avito-tech/playbook/blob/master/mission-and-values.md)
 - [Структура команд](https://github.com/avito-tech/playbook/blob/master/structure.md) 
 - [Процессы и стандарты в команде разработки](https://github.com/avito-tech/playbook/blob/master/processes-and-standards.md)
-- [Технический радар](https://techradar.avito.ru) или страница на [Stackshare](https://stackshare.io/avito/avito)
 - [Целеполагание по OKR и процесс Performance Review](https://github.com/avito-tech/playbook/blob/master/goal-setting.md)
 - [Опенсорс-проекты сотрудников Авито](https://github.com/avito-tech/playbook/blob/master/avito-open-source.md) 
 - [Условия работы и как к нам попасть](https://github.com/avito-tech/playbook/blob/master/recruitment-and-office.md) 
