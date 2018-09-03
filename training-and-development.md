@@ -11,9 +11,10 @@
 ## Технические митапы, хакатоны, соревнования
 
 ### Публичные митапы
-Ежемесячно в московском офисе Авито проводятся публичные встречи разработчиков, на которые может зарегистрироваться любой специалист. Мы проводим собственные события, а также приглашаем в гости независимые сообщества разработчиков. В Авито уже проходили митапы сообществ MoscowJS, Golang Moscow, DevOps Moscow, CocoaHeads Moscow, Mosdroid, SPA meetup, PostgreSQL Russia, Kubernetes Moscow, Kotlin Night, GDG Moscow.
+Ежемесячно в московском офисе Авито проводятся публичные встречи разработчиков, на которые может зарегистрироваться любой специалист. Мы проводим собственные события, а также приглашаем в гости независимые сообщества разработчиков. В Авито уже проходили митапы сообществ MoscowJS, Golang Moscow, DevOps Moscow, CocoaHeads Moscow, Mosdroid, SPA meetup, PostgreSQL Russia, Kubernetes Moscow, Kotlin Night, GDG Moscow. В последнее время мы стараемся выкладывать [все презентации с наших мероприятий на GitHub](https://github.com/avito-tech/avitotech-presentations). 
 
 Следить за анонсами событий можно в наших группах в социальных сетях ([Habr](https://habrahabr.ru/company/avito/), [Facebook](https://www.facebook.com/AvitoTech/), [Twitter](https://twitter.com/AvitoTech), [VK](https://vk.com/avitotech), [Telegram](https://t.me/avitotech)) и [на странице Timepad](https://avitotech.timepad.ru/). Трансляции и записи встреч ищите на нашем канале [на YouTube](https://www.youtube.com/c/AvitoTech). 
+
 
 ### Внутренние митапы
 Команда разработки уже несколько лет еженедельно проводит внутренний Tech Meetup. На этих встречах коллеги рассказывают друг другу о новых интересных технологиях, делают демо последних фич, делятся успехами и неудачами. Кроме того, мы регулярно приглашаем интересных гостей — коллег из других компаний.
