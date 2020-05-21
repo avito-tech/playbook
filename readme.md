@@ -36,7 +36,8 @@ MAU	 | 47 миллионов человек
 # Куда смотреть дальше? 
 
 - [Миссия и ценности Авито](https://github.com/avito-tech/playbook/blob/master/mission-and-values.md)
-- [Структура команд](https://github.com/avito-tech/playbook/blob/master/structure.md) 
+- [Структура команд](https://github.com/avito-tech/playbook/blob/master/structure.md)
+- [Профили (уровни) инженеров в Авито](https://github.com/avito-tech/playbook/blob/master/developer-profile.md)
 - [Процессы и стандарты в команде разработки](https://github.com/avito-tech/playbook/blob/master/processes-and-standards.md)
 - [Целеполагание по OKR и процесс Performance Review](https://github.com/avito-tech/playbook/blob/master/goal-setting.md)
 - [Опенсорс-проекты сотрудников Авито](https://github.com/avito-tech/playbook/blob/master/avito-open-source.md) 
