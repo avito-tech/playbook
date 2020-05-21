@@ -6,16 +6,16 @@
 Карьерная лестница  - это возможный путь развития инженера в Авито в зависимости от того, какие задачи он решает, и какие основные скиллы при этом использует.
 
 Развиваться можно 2-мя путями:
-- как инженер (IC, individual contributor), который делает работу преимущественно своими руками
+- как инженер (IC, individual contributor), который делает работу преимущественно своими руками, высшая ступень
 - как менеджер, который достигает результата через управление людьми или командами
 
 В настоящий момент у нас в Авито существуют такие уровни:
-- Intern (стажёр)
-- junior
-- Middle
-- Senior
-- Lead
-- Principal
+- [Intern (стажёр)](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#intern)
+- [junior](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#junior)
+- [Middle](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#middle)
+- [Senior](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#senior)
+- [Lead](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#lead)
+- [Principal](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#principal)
 
 Все профили описаны по блокам:
 - Экспертность
