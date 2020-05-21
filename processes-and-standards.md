@@ -53,4 +53,5 @@
 - Аналитика — [Tableau](https://www.tableau.com/products/server)
 - VCS — Git ([Bitbucket Server](https://www.atlassian.com/software/bitbucket/server))
 - CI — [TeamCity](https://www.jetbrains.com/teamcity/)
+- Совместная работа - [Miro](https://miro.com), [Google Docs](https://docs.google.com/)
 
