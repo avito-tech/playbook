@@ -46,4 +46,3 @@ MAU	 | 47 миллионов человек
 - [История Авито](https://github.com/avito-tech/playbook/blob/master/avito-history.md)
 - [Образовательные программы для студентов и молодых специалистов](https://github.com/avito-tech/playbook/blob/master/students.md)
 
-![](https://scontent.fhrk1-1.fna.fbcdn.net/v/t1.0-9/24293993_874487989395217_1488213834491182695_n.png?_nc_cat=0&oh=a0027c766f1a596f8552f6fd02851ed9&oe=5C293EBD)
