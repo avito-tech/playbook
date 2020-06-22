@@ -32,7 +32,7 @@
 - Docker-Kubernetes-Helm workshop;
 - Machine Learning для разработчиков;
 - Информационная безопасность;
-- QA: QA для разработчиков, Performance testing, PHP для функциональных QA
+- QA: QA для разработчиков, Performance testing, PHP для функциональных QA;
 - Инструменты аналитики: Tableau, Google Analytics.
 
 Это далеко не полный список, мы постоянно проводим новые воркшопы и тренинги. 
