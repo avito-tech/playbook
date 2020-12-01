@@ -36,7 +36,7 @@
 
 Когда сбой устранили, ответственная за функциональность команда выясняет его корневые причины, и любой участник процесса заводит постмортем тикет.
 
-![](https://habrastorage.org/webt/5m/s9/tj/5ms9tjgpmpxml61etvg5krb1giy.png)
+![](https://habrastorage.org/webt/vx/qb/ka/vxqbkazrztspypcnltyzbdfnui0.png)
 
 ### Что описываем в постмортем тикете
 
