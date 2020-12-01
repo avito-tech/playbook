@@ -1,7 +1,7 @@
 # Инженерные практики
 
-- [Live Site Review (LSR)](https://github.com/avito-tech/playbook/blob/master/avito-developer-practice.md#live-site-review-lsr) - разбор инцидентов
-- [Архитектурный комитет](https://github.com/avito-tech/playbook/blob/master/avito-developer-practice.md#архитектурный-комитет) - ревью архитектуры приложений и сервисов
+- [Live Site Review (LSR)](https://github.com/avito-tech/playbook/blob/master/avito-developer-practice.md#live-site-review-lsr) — разбор инцидентов
+- [Архитектурный комитет](https://github.com/avito-tech/playbook/blob/master/avito-developer-practice.md#архитектурный-комитет) — ревью архитектуры приложений и сервисов
 
 ## Live Site Review (LSR)
 
