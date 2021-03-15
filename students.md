@@ -19,7 +19,7 @@
 
 - [Backend-разработчик PHP](https://otus.ru/lessons/razrabotchik-php/)
 - [Разработчик Python](https://otus.ru/lessons/razrabotchik-python/)
-- [Data Scientist](https://otus.ru/lessons/ml-specialization/?int_source=courses_catalog&int_term=data-science)
+- [Machine Learning](https://otus.ru/lessons/ml-specialization/?int_source=courses_catalog&int_term=data-science)
 
 ### [Loftschool](https://loftschool.com/)
 Наш front-end разработчик Сергей Мелюков преподаёт курс [«Комплексное обучение JavaScript»](https://loftschool.com/course/javascript)
