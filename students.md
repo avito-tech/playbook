@@ -16,17 +16,6 @@
 
 Подробности в [статье на Хабре](https://habr.com/company/avito/blog/374085/).
 
-## Образовательные проекты
-
-Авито выступает партнёром курсов на различных онлайн-площадках. Среди них –— [Loftschool](https://loftschool.com/) и [OTUS](https://otus.ru/).
-
-### [OTUS](https://otus.ru/)
-Наши инженеры приняли участие в разработке трёх курсов. Лучшим выпускникам мы предлагаем работу в нашей дружной команде. 
-
-- [Backend-разработчик PHP](https://otus.ru/lessons/razrabotchik-php/)
-- [Разработчик Python](https://otus.ru/lessons/razrabotchik-python/)
-- [Machine Learning](https://otus.ru/lessons/ml-specialization/?int_source=courses_catalog&int_term=data-science)
-
 ## Стажировки в Авито
 
 Несколько раз в год мы набираем стажёров в технический департамент Авито. Они работают от шести месяцев до года и решают боевые задачи. По итогам большинство стажёров переходят в штат.
