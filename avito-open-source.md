@@ -13,6 +13,7 @@
 - [krop](https://github.com/avito-tech/krop) — небольшой, но удобный виджет для простой реализации кропа фотографий в Android-приложениях.
 - [Gravure](https://github.com/avito-tech/gravure) — микросервис для ресайза изображений.
 - [smart-redis-replication](https://github.com/avito-tech/smart-redis-replication) — библиотека для подключения к redis-серверу в качестве slave и разбора всех данных репликации.
+- [Normalize](https://github.com/avito-tech/normalize.git) — библиотека для нормализации строковых значений.
 
 Кроме того, многие наши коллеги ведут свои и поддерживают известные open-source проекты, например:
 
