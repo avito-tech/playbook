@@ -11,7 +11,7 @@
 
 В настоящий момент у нас в Авито существуют такие уровни:
 - [Intern (стажёр)](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#intern)
-- [junior](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#junior)
+- [Junior](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#junior)
 - [Middle](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#middle)
 - [Senior](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#senior)
 - [Lead](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#lead)
