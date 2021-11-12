@@ -41,6 +41,7 @@ MAU	 | 50 миллионов человек
 - [Структура команд](https://github.com/avito-tech/playbook/blob/master/structure.md)
 - [Профили (уровни) инженеров в Авито](https://github.com/avito-tech/playbook/blob/master/developer-profile.md)
 - [Профили технических менеджеров (лидов) в Авито](https://github.com/avito-tech/playbook/blob/master/techlead-profile.md)
+- [Профили аналитиков](https://github.com/avito-tech/playbook/blob/master/analytics-levels.md)
 - [Процессы и стандарты в команде разработки](https://github.com/avito-tech/playbook/blob/master/processes-and-standards.md)
 - [Инженерные практики](https://github.com/avito-tech/playbook/blob/master/avito-developer-practice.md)
 - [Целеполагание по OKR и процесс Performance Review](https://github.com/avito-tech/playbook/blob/master/goal-setting.md)
