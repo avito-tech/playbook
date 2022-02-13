@@ -1,6 +1,6 @@
 # Профили инженеров
 
-Профили инженеров нужны для того, чтобы оценивать коллег в соответствии с их уровнем на [performance review](https://github.com/avito-tech/playbook/blob/master/goal-setting.md#performance-review) и сделать продвижение по карьерной лестнице понятным и прозрачным. 
+Профили инженеров нужны для того, чтобы оценивать коллег в соответствии с их уровнем на [performance review](./goal-setting.md#performance-review) и сделать продвижение по карьерной лестнице понятным и прозрачным. 
 
 ## Карьерная лестница
 Карьерная лестница  — это возможный путь развития инженера в Авито в зависимости от того, какие задачи он решает, и какие основные скиллы при этом использует.
@@ -10,12 +10,12 @@
 - Как менеджер, который достигает результата через управление людьми или командами.
 
 В настоящий момент у нас в Авито существуют такие уровни:
-- [Intern (стажёр)](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#intern)
-- [Junior](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#junior)
-- [Middle](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#middle)
-- [Senior](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#senior)
-- [Lead](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#lead)
-- [Principal](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#principal)
+- [Intern (стажёр)](./developer-profile.md#intern)
+- [Junior](./developer-profile.md#junior)
+- [Middle](./developer-profile.md#middle)
+- [Senior](./developer-profile.md#senior)
+- [Lead](./developer-profile.md#lead)
+- [Principal](./developer-profile.md#principal)
 
 Все профили описаны по блокам:
 - Экспертность
