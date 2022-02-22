@@ -1,4 +1,6 @@
-# Профили инженеров
+# Архивные профили инженеров
+
+Это архивные профили, которые мы использовали до осени 2021 года. Обновлённые профили — [на новой странице](https://github.com/avito-tech/playbook/blob/master/new%20developper-profile.md).
 
 Профили инженеров нужны для того, чтобы оценивать коллег в соответствии с их уровнем на [performance review](https://github.com/avito-tech/playbook/blob/master/goal-setting.md#performance-review) и сделать продвижение по карьерной лестнице понятным и прозрачным. 
 
