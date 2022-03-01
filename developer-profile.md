@@ -18,14 +18,14 @@
 - Как менеджер, который достигает результата через управление людьми или командами.
 
 Сейчас в Авито существуют такие уровни:
-- [Е1.](https://github.com/avito-tech/playbook/blob/master/new%20developper-profile.md#Е1)
-- [Е2.](https://github.com/avito-tech/playbook/blob/master/new%20developper-profile.md#E2) 
-- [Е3.](https://github.com/avito-tech/playbook/blob/master/new%20developper-profile.md#E3)
-- [Е4.](https://github.com/avito-tech/playbook/blob/master/new%20developper-profile.md#E4)
-- [Е5.](https://github.com/avito-tech/playbook/blob/master/new%20developper-profile.md#E5)
-- [Е6.](https://github.com/avito-tech/playbook/blob/master/new%20developper-profile.md#E6)
-- [E7.](https://github.com/avito-tech/playbook/blob/master/new%20developper-profile.md#E7)
-- [E8.](https://github.com/avito-tech/playbook/blob/master/new%20developper-profile.md#E8)
+- [Е1.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#Е1)
+- [Е2.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#E2) 
+- [Е3.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#E3)
+- [Е4.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#E4)
+- [Е5.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#E5)
+- [Е6.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#E6)
+- [E7.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#E7)
+- [E8.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#E8)
 
 Все профили описаны по блокам:
 - Экспертность.
