@@ -12,9 +12,10 @@
 
 Сейчас в Авито три уровня технических менеджеров:
 
-- [Team Lead](https://github.com/avito-tech/playbook/edit/master/techlead-profile.md#TeamLead)
-- [Technical Unit Lead (TUL)](https://github.com/avito-tech/playbook/edit/master/techlead-profile.md#TechnicalUnitLead)
-- [Cluster Lead](https://github.com/avito-tech/playbook/edit/master/techlead-profile.md#ClusterLead)
+
+- [Team Lead](https://github.com/avito-tech/playbook/blob/master/techlead-profile.md#team-lead) 
+- [Technical Unit Lead (TUL)](https://github.com/avito-tech/playbook/blob/master/techlead-profile.md#technical-unit-lead-tul)
+- [Cluster Lead](https://github.com/avito-tech/playbook/blob/master/techlead-profile.md#cluster-lead)
 
 ## Team Lead
 ### Лидерство
