@@ -13,15 +13,15 @@
 Карьерная лестница — это возможный путь развития сотрудника в Авито. Он зависит от того, какие задачи решает специалист, и какие основные навыки использует в работе.
 
 Сейчас в Авито семь уровней технических менеджеров:
-* [Tech Lead](https://github.com/avito-tech/playbook/edit/master/techlead-profile.md#tech-lead)
-* [Engineering Team Lead](https://github.com/avito-tech/playbook/edit/master/techlead-profile.md#engineering-team-lead)
-* [Technical Unit Lead (TUL](https://github.com/avito-tech/playbook/edit/master/techlead-profile.md#technical-unit-lead-tul)):
-   * [Engineering Manager 1](https://github.com/avito-tech/playbook/edit/master/techlead-profile.md#engineering-manager-1)
-   * [Engineering Manager 2](https://github.com/avito-tech/playbook/edit/master/techlead-profile.md#engineering-manager-2)
-* [Cluster Lead](https://github.com/avito-tech/playbook/edit/master/techlead-profile.md#cluster-manager):
-   * [Senior Engineering Manager 1](https://github.com/avito-tech/playbook/edit/master/techlead-profile.md#senior-engineering-manager-1)
-   * [Senior Engineering Manager 2](https://github.com/avito-tech/playbook/edit/master/techlead-profile.md#senior-engineering-manager-2)
-   * [Lead Engineering Manager](https://github.com/avito-tech/playbook/edit/master/techlead-profile.md#lead-engineering-manager)
+* [Tech Lead](#tech-lead)
+* [Engineering Team Lead](#engineering-team-lead)
+* [Technical Unit Lead (TUL](#technical-unit-lead-tul)):
+   * [Engineering Manager 1](#engineering-manager-1)
+   * [Engineering Manager 2](#engineering-manager-2)
+* [Cluster Lead](#cluster-manager):
+   * [Senior Engineering Manager 1](#senior-engineering-manager-1)
+   * [Senior Engineering Manager 2](#senior-engineering-manager-2)
+   * [Lead Engineering Manager](#lead-engineering-manager)
 
 
 ## Tech Lead
