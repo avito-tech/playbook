@@ -7,12 +7,12 @@
 
 Сейчас в Авито существуют такие уровни QA-инженеров:
 
-- [Е1.](https://github.com/avito-tech/playbook/edit/master/QA-profile.md#E1)
-- [Е2.](https://github.com/avito-tech/playbook/edit/master/QA-profile.md#E2)
-- [Е3.](https://github.com/avito-tech/playbook/edit/master/QA-profile.md#E3)
-- [Е4.](https://github.com/avito-tech/playbook/edit/master/QA-profile.md#E4)
-- [Е5.](https://github.com/avito-tech/playbook/edit/master/QA-profile.md#E5)
-- [Е6.](https://github.com/avito-tech/playbook/edit/master/QA-profile.md#E6)
+- [Е1.](https://github.com/avito-tech/playbook/blob/master/QA-profile.md#E1)
+- [Е2.](https://github.com/avito-tech/playbook/blob/master/QA-profile.md#E2)
+- [Е3.](https://github.com/avito-tech/playbook/blob/master/QA-profile.md#E3)
+- [Е4.](https://github.com/avito-tech/playbook/blob/master/QA-profile.md#E4)
+- [Е5.](https://github.com/avito-tech/playbook/blob/master/QA-profile.md#E5)
+- [Е6.](https://github.com/avito-tech/playbook/blob/master/QA-profile.md#E6)
 
 Двигаться ли по карьерной лестнице — это решение самого сотрудника. Многое зависит от его проактивности и желания учиться. Задача менеджера — помочь специалисту в развитии. Например, подключать к новым задачам, давать возможность для участия в кросс-функциональных проектах.
 
