@@ -47,6 +47,7 @@ MAU	 | 50 миллионов человек
 - [Профили QA](https://github.com/avito-tech/playbook/blob/master/QA-profile.md)
 - [Процессы и стандарты в команде разработки](https://github.com/avito-tech/playbook/blob/master/processes-and-standards.md)
 - [Принципы разработки](https://github.com/avito-tech/playbook/blob/master/development-principles.md)
+- [Соседское соглашение] (https://github.com/avito-tech/playbook/blob/master/neighborhood-agreement.md)
 - [Инженерные практики](https://github.com/avito-tech/playbook/blob/master/avito-developer-practice.md)
 - [Целеполагание по OKR и процесс Performance Review](https://github.com/avito-tech/playbook/blob/master/goal-setting.md)
 - [Опенсорс-проекты сотрудников Авито](https://github.com/avito-tech/playbook/blob/master/avito-open-source.md) 
