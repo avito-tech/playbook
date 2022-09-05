@@ -1,10 +1,10 @@
 # Соседское соглашение
 
 - [Цель](https://github.com/avito-tech/playbook/blob/master/neighborhood-agreement.md#цель)
-- [Краткое руководство](url)
-- [Правила внесения изменений в чужой функционал](url)
-- [Ответственность Владельца](url)
-- [Общие рекомендации по автоматизации тестирования](url)
+- [Краткое руководство](https://github.com/avito-tech/playbook/blob/master/neighborhood-agreement.md#краткое-руководство)
+- [Правила внесения изменений в чужой функционал](https://github.com/avito-tech/playbook/blob/master/neighborhood-agreement.md#правила-внесения-изменений-в-чужой-функционал)
+- [Ответственность владельца](https://github.com/avito-tech/playbook/blob/master/neighborhood-agreement.md#ответственность-владельца)
+- [Общие рекомендации по автоматизации тестирования](https://github.com/avito-tech/playbook/blob/master/neighborhood-agreement.md#общие-рекомендации-по-автоматизации-тестирования)
 
 
 ## Цель
