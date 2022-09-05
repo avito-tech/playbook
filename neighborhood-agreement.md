@@ -1,6 +1,6 @@
 # Соседское соглашение
 
-- [Цель](url)
+- [Цель](https://github.com/avito-tech/playbook/blob/master/neighborhood-agreement.md#цель)
 - [Краткое руководство](url)
 - [Правила внесения изменений в чужой функционал](url)
 - [Ответственность Владельца](url)
