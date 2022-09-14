@@ -1,6 +1,6 @@
 # Open-source
 
-Многие из решений, разрабатываемых в Авито, могут приносить пользу не только нам, но и другим людям. При появлении такого проекта мы выносим его в [OSS сообщество](https://github.com/avito-tech) на GitHub. Наши библиотеки:
+Многие из решений, разрабатываемых в Авито, могут приносить пользу не только нам, но и другим людям. При появлении такого проекта мы выносим его в [OSS-сообщество](https://github.com/avito-tech) на GitHub. Наши библиотеки:
 - [Avito Android](https://github.com/avito-tech/avito-android) — инфраструктура нашего Андроид-приложения (тесты, Gradle-плагины, CI).
 - [Netramesh](https://github.com/avito-tech/netramesh) — легковесное service mesh решение.
 - [Navigator](https://github.com/avito-tech/navigator) — решение для мультикластерной балансировки.
