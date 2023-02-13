@@ -60,19 +60,15 @@
 
 # Менеджерский трек
 
-Состоит из следующих уровней:
+**Состоит из следующих уровней:**
 
-• Team Lead Analyst
+* Team Lead Analyst
+* Division Lead Analyst
+* Unit Lead
+* Head of Analytics
+* Analytics Director
 
-• Division Lead Analyst
-
-• Unit Lead
-
-• Head of Analytics
-
-• Analytics Director
-
-Все профили описаны по блокам:
+**Все профили описаны по блокам:**
 
 * Команда
 * Зона ответственности
