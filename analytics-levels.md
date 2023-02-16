@@ -54,7 +54,7 @@
 
 ## В итоге, ожидания от уровней выглядят так:
 
-![](https://habrastorage.org/webt/nq/xd/wo/nqxdwob93alzli3ery5faayvala.png)
+![](https://habrastorage.org/webt/cl/jm/ug/cljmugdmtm0naciax9gmwsfrzu4.png)
 
 
 
