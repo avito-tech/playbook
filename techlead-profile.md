@@ -14,13 +14,15 @@
 
 Сейчас в Авито семь уровней технических менеджеров:
 * [Tech Lead](#tech-lead)
-* [Engineering Team Lead](#engineering-team-lead)
-* [Technical Unit Lead (TUL](#technical-unit-lead-tul)):
+* [Team Lead](#team-lead):
+  * [Engineering Team Lead](#engineering-team-lead)
+* [Technical Unit Lead](#technical-unit-lead):
    * [Engineering Manager 1](#engineering-manager-1)
    * [Engineering Manager 2](#engineering-manager-2)
-* [Cluster Lead](#cluster-manager):
+* [Technical Cluster Lead](#technical-cluster-lead):
    * [Senior Engineering Manager 1](#senior-engineering-manager-1)
    * [Senior Engineering Manager 2](#senior-engineering-manager-2)
+* [Director](#director):
    * [Lead Engineering Manager](#lead-engineering-manager)
 
 
@@ -84,6 +86,8 @@
 - Помогает Product Owner готовить бэклог для команды разработки или делает это самостоятельно.
 - Самостоятельно или вместе с Product Owner формирует и отслеживает метрики здоровья продукта.
 
+## Team Lead
+
 ## Engineering Team Lead
 
 ### Управление людьми
@@ -129,7 +133,7 @@
 - Делает базовые выводы по результатам проведенных исследований: например, по А/В-тестам. Анализирует результаты пользовательских исследований/интервью/опросов. «Подсвечивает» найденные проблемы или успехи. Опирается на них в своей работе.
 
 
-## Technical Unit Lead (TUL)
+## Technical Unit Lead
 
 ## Engineering Manager 1
 
@@ -222,7 +226,7 @@
 - Отслеживает продуктовые и бизнесовые тренды рынка, на котором работает. Знает, что делают конкуренты. Использует эти знания при планировании продуктовой и технической работы.
 
 
-## Cluster Manager
+## Technical Cluster Lead
 
 ## Senior Engineering Manager 1
 
@@ -308,6 +312,7 @@
 - Используя рыночные и технологические тренды, формирует новые бизнес или технологические возможности для развития своего направления. Проактивно приходит с этими предложениями.
 - Эффективно использует ресурсы своего департамента, знает, из чего складывается его P&L.
 
+## Director
 
 ## Lead Engineering Manager
 
