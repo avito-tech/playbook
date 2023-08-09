@@ -282,6 +282,8 @@
 
 [Купить на Amazon →](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 
+[Купить на Ozon (на русском языке) →](https://www.ozon.ru/product/karera-programmista-6-e-izdanie-lakman-makdauell-geyl-227305313/)
+
 #### Программирование. Теоремы и задачи | Александр Шень
 
 Теоретические справки и практические задания по разным классам алгоритмов.
@@ -302,17 +304,23 @@
 Коротко о практике написания и тестирования кода, для начинающих.
 [Купить на Amazon →](https://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X/)
 
+[Купить на Лабиринте (на русском языке) →](https://www.labirint.ru/books/518955/)
+
 #### Refactoring | Martin Fowler
 
 Тщательно систематизированные методы по улучшению существующего кода.
 
 [Книга на сайте автора →](https://martinfowler.com/books/refactoring.html)
 
+[Купить на Ozon (на русском языке) →](https://www.ozon.ru/product/refaktoring-uluchshenie-proekta-sushchestvuyushchego-koda-628030432/)
+
 #### Code Complete | Steve McConnell
 
 Классический труд по практике написания кода.
 
 [Купить на Amazon →](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+
+[Купить на Ozon (на русском языке) →](https://www.ozon.ru/product/sovershennyy-kod-makkonnell-stiv-221777342/)
 
 ## Паттерны проектирования
 
@@ -322,11 +330,15 @@
 
 [Купить на Amazon →](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 
+[Купить на Ozon (на русском языке) →](https://www.ozon.ru/product/head-first-patterny-proektirovaniya-2-e-izdanie-beyts-bert-serra-keti-322968627/)
+
 #### Patterns of Enterprise Application Architecture | Martin Fowler
 
 Паттерны корпоративных приложений.
 
 [Купить на Amazon →](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+
+[Купить на Ozon (на русском языке) →](https://www.ozon.ru/product/shablony-korporativnyh-prilozheniy-signature-series-627965188/)
 
 ## Микросервисная архитектура
 
@@ -432,11 +444,15 @@
 
 [Купить на Amazon →](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/)
 
+[Купить на Ozon (на русском языке) →](https://www.ozon.ru/product/yazyk-programmirovaniya-go-kernigan-brayan-u-donovan-alan-a-a-605143283/)
+
 #### Go in Practice | Matt Butcher, Matt Farina
 
 Практики написания production-grade кода от разработчиков Kubernetes и Helm. 
 
 [Купить на Amazon →](https://www.amazon.com/Go-Practice-Techniques-Matt-Butcher/dp/1633430073/)
+
+[Купить на Ozon (на русском языке) →](https://www.ozon.ru/product/go-na-praktike-butcher-matt-farina-mett-mett-217051434/)
 
 #### Облачный Go | Мэтью А. Титмус
 
@@ -589,6 +605,8 @@ K&R: классическая книга от авторов языка.
 #### Прикладной анализ текстовых данных на Python. Машинное обучение и создание приложений обработки естественного языка | Бенджамин Бенгфорт и др. 
 
 [Купить на Amazon (на английском языке) →](https://www.amazon.com/Applied-Text-Analysis-Python-Language-Aware/dp/1491963042)
+
+[Купить на Ozon (на русском языке) →](https://www.ozon.ru/product/prikladnoy-analiz-tekstovyh-dannyh-na-python-mashinnoe-obuchenie-i-sozdanie-prilozheniy-obrabotki-814851553/)
 
 #### Data Science. Наука о данных с нуля | Джоэл Грас
 
