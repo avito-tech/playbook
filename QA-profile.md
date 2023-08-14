@@ -1,6 +1,6 @@
 # Профили QA-инженеров
 
-Профили QA-инженеров нужны, чтобы оценивать коллег в соответствии с их уровнем на [performance review](https://github.com/avito-tech/playbook/blob/master/goal-setting.md#performance-review). Это делает продвижение по карьерной лестнице понятным и прозрачным.
+Профили QA-инженеров нужны, чтобы оценивать коллег в соответствии с их уровнем на [performance review](goal-setting.md#performance-review). Это делает продвижение по карьерной лестнице понятным и прозрачным.
 
 ## Карьерная лестница
 
@@ -8,12 +8,12 @@
 
 Сейчас в Авито существуют такие уровни QA-инженеров:
 
-- [Е1](https://github.com/avito-tech/playbook/blob/master/qa-profile.md#е1)
-- [Е2](https://github.com/avito-tech/playbook/blob/master/qa-profile.md#е2)
-- [Е3](https://github.com/avito-tech/playbook/blob/master/qa-profile.md#е3)
-- [Е4](https://github.com/avito-tech/playbook/blob/master/qa-profile.md#е4)
-- [Е5](https://github.com/avito-tech/playbook/blob/master/qa-profile.md#е5)
-- [Е6](https://github.com/avito-tech/playbook/blob/master/qa-profile.md#е6)
+- [Е1](qa-profile.md#е1)
+- [Е2](qa-profile.md#е2)
+- [Е3](qa-profile.md#е3)
+- [Е4](qa-profile.md#е4)
+- [Е5](qa-profile.md#е5)
+- [Е6](qa-profile.md#е6)
 
 Двигаться ли по карьерной лестнице — это решение самого сотрудника. Многое зависит от его проактивности и желания учиться. Задача менеджера — помочь специалисту в развитии. Например, подключать к новым задачам, давать возможность для участия в кросс-функциональных проектах.
 

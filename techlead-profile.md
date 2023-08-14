@@ -1,6 +1,6 @@
 # Профили технических менеджеров
 
-Профили технических менеджеров нужны, чтобы оценивать коллег на [performance review](https://github.com/avito-tech/playbook/blob/master/goal-setting.md#performance-review). Это делает продвижение по карьерной лестнице понятнее.
+Профили технических менеджеров нужны, чтобы оценивать коллег на [performance review](goal-setting.md#performance-review). Это делает продвижение по карьерной лестнице понятнее.
 
 ## Как работают профили
 
