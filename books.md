@@ -1,11 +1,12 @@
 # Полезные книги по направлениям
 
 ## Управление продуктом
+
 #### Lean Startup | Eric Ries
 
 [Купить на Amazon →](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
-[Купить на Ozon (на русском языке)→](https://www.ozon.ru/product/biznes-s-nulya-metod-lean-startup-dlya-bystrogo-testirovaniya-idey-i-vybora-biznes-modeli-8-e-izd-479034894/) 
+[Купить на Ozon (на русском языке)→](https://www.ozon.ru/product/biznes-s-nulya-metod-lean-startup-dlya-bystrogo-testirovaniya-idey-i-vybora-biznes-modeli-8-e-izd-479034894/)
 
 [Купить на ЛитРес (цифровая, на русском языке) →](https://www.litres.ru/book/erik-ris/biznes-s-nulya-metod-lean-startup-dlya-bystrogo-testirovaniya-ide-6884055/)
 
@@ -46,6 +47,7 @@
 [Купить на Лабиринте (на русском языке) →](https://www.labirint.ru/books/569883/)
 
 ## Общий менеджмент
+
 #### High Output Management | Andrew Grove
 
 [Купить на Amazon →](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
@@ -274,7 +276,7 @@
 
 [Купить на Amazon (на английском языке) →](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-ebook/dp/B006Z0QR3I)
 
-#### Структуры данных и алгоритмы | Альфред Ахо, Джон Хопкрофт, Джефри Ульман 
+#### Структуры данных и алгоритмы | Альфред Ахо, Джон Хопкрофт, Джефри Ульман
 
 [Купить на Amazon (на английском языке) →](https://www.amazon.com/Data-Structures-Algorithms-Alfred-Aho/dp/0201000237)
 
@@ -434,7 +436,7 @@
 
 #### Go in Practice | Matt Butcher, Matt Farina
 
-Практики написания production-grade кода от разработчиков Kubernetes и Helm. 
+Практики написания production-grade кода от разработчиков Kubernetes и Helm.
 
 [Купить на Amazon →](https://www.amazon.com/Go-Practice-Techniques-Matt-Butcher/dp/1633430073/)
 
@@ -558,11 +560,11 @@ K&R: классическая книга от авторов языка.
 
 [Купить на Amazon (на английском языке) →](https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/9081540637)
 
-#### Building Secure & Reliable Systems | Heather Adkins et al. 
+#### Building Secure & Reliable Systems | Heather Adkins et al.
 
 [Купить на Amazon →](https://www.amazon.com/Building-Secure-Reliable-Systems-Implementing/dp/1492083127)
 
-#### The Datacenter as a Computer. An Introduction to the Design of Warehouse-Scale Machines | Luiz André Barroso et. al. 
+#### The Datacenter as a Computer. An Introduction to the Design of Warehouse-Scale Machines | Luiz André Barroso et. al.
 
 [Купить на Amazon →](https://www.amazon.com/Datacenter-Computer-Introduction-Warehouse-Scale-Architecture/dp/1627050094)
 
@@ -576,17 +578,17 @@ K&R: классическая книга от авторов языка.
 
 [Купить на Amazon →](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505)
 
-#### The Practice of System and Network Administration | Thomas A. Limoncelli et al. 
+#### The Practice of System and Network Administration | Thomas A. Limoncelli et al.
 
 [Купить на Amazon →](https://www.amazon.com/Practice-System-Network-Administration-Second/dp/0321492668)
 
-#### The Practice of Cloud System Administration. Designing and Operating Large Distributed Systems | Thomas A. Limoncelli et al. 
+#### The Practice of Cloud System Administration. Designing and Operating Large Distributed Systems | Thomas A. Limoncelli et al.
 
 [Купить на Amazon →](https://www.amazon.com/Practice-Cloud-System-Administration-Practices/dp/032194318X)
 
 ## Аналитика
 
-#### Прикладной анализ текстовых данных на Python. Машинное обучение и создание приложений обработки естественного языка | Бенджамин Бенгфорт и др. 
+#### Прикладной анализ текстовых данных на Python. Машинное обучение и создание приложений обработки естественного языка | Бенджамин Бенгфорт и др.
 
 [Купить на Amazon (на английском языке) →](https://www.amazon.com/Applied-Text-Analysis-Python-Language-Aware/dp/1491963042)
 
