@@ -85,10 +85,10 @@
 - Принимает решения об изменении процессов, основываясь на фактах и данных.
 
 ### ML-экспертиза
-- [Идентичные 13,1 TL.](https://github.com/avito-tech/playbook/new/master#ml-экспертиза)
+- [Идентичные 13,1 TL.](https://github.com/avito-tech/playbook/blob/master/ds-managers-profiles.md#ml-экспертиза)
 
 ### Бизнес-экспертиза
-- [Идентичные 13,1 TL.](https://github.com/avito-tech/playbook/new/master#бизнес-экспертиза)
+- [Идентичные 13,1 TL.](https://github.com/avito-tech/playbook/blob/master/ds-managers-profiles.md#бизнес-экспертиза)
 
 ## 14,1 TUL1 — DS Manager 1
 
@@ -131,14 +131,14 @@
 ## 14,2 TUL1–TUL2 — DS Manager 2
 
 ### Управление людьми
-- [Идентично с 14,1 TUL 1.](https://github.com/avito-tech/playbook/new/master#управление-людьми-2)
+- [Идентично с 14,1 TUL 1.](https://github.com/avito-tech/playbook/blob/master/ds-managers-profiles.md#управление-людьми-2)
 
 ### Управление командами
 - Управляет несколькими командами инженеров.
 - Планирует организационную структуру своих команд, учитывая цели команды.
 
 ### Целеполагание, планирование и реализация
-- [Идентично с 14,1 TUL 1.](https://github.com/avito-tech/playbook/new/master#целеполагание-планирование-и-реализация-2)
+- [Идентично с 14,1 TUL 1.](https://github.com/avito-tech/playbook/blob/master/ds-managers-profiles.md#целеполагание-планирование-и-реализация-2)
 
 ### Управление процессами
 - [Идентично с 14,1 TUL 1.](https://github.com/avito-tech/playbook/new/master#управление-процессами-2)
@@ -148,7 +148,7 @@
 - Изучает смежные области и технологии. Например, для того чтобы успешно управлять кросс-функциональной командой.
 
 ### Бизнес-экспертиза
-- [Идентично с 14,1 TUL 1.](https://github.com/avito-tech/playbook/new/master#бизнес-экспертиза-2)
+- [Идентично с 14,1 TUL 1.](https://github.com/avito-tech/playbook/blob/master/ds-managers-profiles.md#бизнес-экспертиза-2)
 
 ## 14,3 TUL2–TCL1 — DS Manager 3
 
@@ -163,7 +163,7 @@
 - Принимает решение о создании новых команд, их роспуске или объединении.
 
 ### Целеполагание, планирование и реализация
-- [Идентично с 14,1 TUL 1.](https://github.com/avito-tech/playbook/new/master#целеполагание-планирование-и-реализация-2)
+- [Идентично с 14,1 TUL 1.](https://github.com/avito-tech/playbook/blob/master/ds-managers-profiles.md#целеполагание-планирование-и-реализация-2)
 
 ### Управление процессами
 - Управляет командами через организацию процессов и постановку целей. Согласует совместную работу своих команд.
@@ -183,7 +183,7 @@
 ## 15 TCL2 — Senior DS Manager
 
 ### Управление людьми
-- [Идентично с 14,3 TUL2–TCL1.](https://github.com/avito-tech/playbook/new/master#управление-людьми-4)
+- [Идентично с 14,3 TUL2–TCL1.](https://github.com/avito-tech/playbook/blob/master/ds-managers-profiles.md#управление-людьми-4)
 
 ### Управление командами
 - Планирует организационную структуру своего подразделения. Создаёт команды для новых бизнес-направлений.
@@ -206,7 +206,7 @@
 - Внедряет успешно показавшие себя процессы в нескольких подразделениях.
 
 ### ML-экспертиза
-- [Идентично с 14,3 TUL2–TCL1.](https://github.com/avito-tech/playbook/new/master#ml-экспертиза-4)
+- [Идентично с 14,3 TUL2–TCL1.](https://github.com/avito-tech/playbook/blob/master/ds-managers-profiles.md#ml-экспертиза-4)
 
 ### Бизнес-экспертиза
-- [Идентично с 14,3 TUL2–TCL1.](https://github.com/avito-tech/playbook/new/master#бизнес-экспертиза-4)https://github.com/avito-tech/playbook/new/master#бизнес-экспертиза-4
+- [Идентично с 14,3 TUL2–TCL1.](https://github.com/avito-tech/playbook/blob/master/ds-managers-profiles.md#бизнес-экспертиза-4)
