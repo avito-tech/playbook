@@ -4,7 +4,7 @@
 - [13,2 TL — DS Team Lead](https://github.com/avito-tech/playbook/blob/master/ds-managers-profiles.md#132-tl--ds-team-lead)
 - [14,1 TUL1 — DS Manager 1](https://github.com/avito-tech/playbook/blob/master/ds-managers-profiles.md#141-tul1--ds-manager-1)
 - [14,2 TUL1–TUL2 — DS Manager 2](https://github.com/avito-tech/playbook/blob/master/ds-managers-profiles.md#142-tul1tul2--ds-manager-2)
-- [14,3 TUL2–TCL1 — DS Manager 3](https://github.com/avito-tech/playbook/new/master#143-tul2--ds-manager-3)
+- [14,3 TUL2–TCL1 — DS Manager 3](https://github.com/avito-tech/playbook/blob/master/ds-managers-profiles.md#143-tul2tcl1--ds-manager-3)
 - [15 TCL2 — Senior DS Manager](https://github.com/avito-tech/playbook/new/master#15-tcl2--senior-ds-manager)
 
 ## 13,1 TL — DS Tech Lead
