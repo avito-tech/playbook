@@ -619,8 +619,6 @@ K&R: классическая книга от авторов языка.
 
 ## QA/Тестирование
 
-### Сайты/блоги
-
 [Тестирование и качество ПО →](http://software-testing.ru)
 
 [Всё о QA: 80 бесплатных материалов по грамотному тестированию →](https://tproger.ru/digest/free-software-testing-books/)
@@ -631,69 +629,48 @@ K&R: классическая книга от авторов языка.
 
 [Серия статей про DDD и event storming →](https://philippe.bourgau.net/misadventures-with-big-design-up-front/)
 
-###  Литература/статьи
+### Тест-дизайн
 
-#### Тест-дизайн
+#### A Practitioner's Guide to Software Test Design | Lee Copeland 
+[Купить на Amazon →](https://www.amazon.com/Practitioners-Guide-Software-Test-Design/dp/158053791X)
 
-#### “A Practitioner's Guide to Software Test Design” - Lee Copeland 
-[ссылка на яндекс диск, где лежит книга →](https://disk.yandex.ru/d/ry1lgVGQ5OH62)
+#### «Искусство тестирования программ» | Гленфорд Майерс, Том Баджетт, Кори Сандлер
+[Купить на Ozon →](https://www.ozon.ru/product/iskusstvo-testirovaniya-programm-3-e-izdanie-636959039/?asb=giSS464i4jhg%252FFnEev43Prv7b3aaEokS%252BmTuJT4V3og%253D&asb2=kUlOT877xzLCsWuf8wlmon_Pxc1yu81aD2kzz4LbD4wgEZFA6il-uv4CNDBxxF3U&avtc=1&avte=2&avts=1707483874&keywords=%D0%B3%D0%BB%D0%B5%D0%BD%D1%84%D0%BE%D1%80%D0%B4+%D0%BC%D0%B0%D0%B9%D0%B5%D1%80%D1%81+%E2%80%9C%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE+%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%E2%80%9D.)
 
-[ссылка на Amazon →](https://www.amazon.com/Practitioners-Guide-Software-Test-Design/dp/158053791X)
+#### Introducing to Software Testing | Пол Амманн и Джефф Оффатт
 
-#### Гленфорд Майерс, Том Баджетт, Кори Сандлер, «Искусство тестирования программ» 
-[ссылка на Озон →](https://www.ozon.ru/product/iskusstvo-testirovaniya-programm-3-e-izdanie-636959039/?asb=giSS464i4jhg%252FFnEev43Prv7b3aaEokS%252BmTuJT4V3og%253D&asb2=kUlOT877xzLCsWuf8wlmon_Pxc1yu81aD2kzz4LbD4wgEZFA6il-uv4CNDBxxF3U&avtc=1&avte=2&avts=1707483874&keywords=%D0%B3%D0%BB%D0%B5%D0%BD%D1%84%D0%BE%D1%80%D0%B4+%D0%BC%D0%B0%D0%B9%D0%B5%D1%80%D1%81+%E2%80%9C%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE+%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%E2%80%9D.)
+### Тест-менеджмент
 
-#### Пол Амманн и Джефф Оффатт, “Introducing to Software Testing”
-______
+#### The 3 Pillars of Agile Quality and Testing | Роберт Гален
 
-#### Тест-менеджмент
+#### Agile Testing | Джанет Грегори, Лайза Криспин
 
-#### "The 3 Pillars of Agile Quality and Testing" - Robert Galen
-
-#### Agile Testing  - Джанет Грегори, Лайза Криспин 
-
-[Электронная на сайте МиФ →](https://www.mann-ivanov-ferber.ru/books/agile-testirovanie/)
+[Электронная книга на сайте МиФ →](https://www.mann-ivanov-ferber.ru/books/agile-testirovanie/)
 
 [Купить на Ozon →](https://www.ozon.ru/search/?deny_category_prediction=true&from_global=true&text=Agile-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.+%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D0%BA%D1%83%D1%80%D1%81+%D0%B4%D0%BB%D1%8F+%D0%B2%D1%81%D0%B5%D0%B9+%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B+%7C+%D0%93%D1%80%D0%B5%D0%B3%D0%BE%D1%80%D0%B8+%D0%94%D0%B6%D0%B0%D0%BD%D0%B5%D1%82%2C+%D0%9A%D1%80%D0%B8%D1%81%D0%BF%D0%B8%D0%BD+%D0%9B%D0%B8%D0%B7%D0%B0&product_id=407665360) 
-______
-#### Работа с требованиями
 
-#### «Ключевые процессы тестирования» - Рэкс Блэк 
+### Работа с требованиями
+
+#### Ключевые процессы тестирования | Рэкс Блэк 
 
 [Купить в Читай-городе →](https://www.chitai-gorod.ru/product/klyuchevye-processy-testirovaniya-planirovanie-podgotovka-provedenie-sovershenstvovanie-m-blek-2633582)
 
 [Купить на Ozon →](https://www.ozon.ru/product/klyuchevye-protsessy-testirovaniya-planirovanie-podgotovka-provedenie-sovershenstvovanie-840831333/)
-______
-#### Общий кругозор
 
-#### «Психбольница в руках пациентов» - Алан Купер 
+### Общий кругозор
+
+#### «Психбольница в руках пациентов» | Алан Купер 
 
 [Купить в Читай-городе →](https://www.chitai-gorod.ru/product/psihbolnica-v-rukah-pacientov-alan-kuper-ob-interfeysah-2637570)
 
 [Купить на ЛитРес →](https://www.litres.ru/book/alan-kuper/psihbolnica-v-rukah-pacientov-alan-kuper-ob-interfeysah-31736385/)
 
-#### Джеральд Вайнберг, «Идеальное программное обеспечение и другие иллюзии в тестировании»
-______
-#### Автоматизация
+#### «Идеальное программное обеспечение и другие иллюзии в тестировании» | Джеральд Вайнберг
 
-#### Арнон Аксельрод, Complete Guide to Test Automation 
+### Автоматизация
 
-[ссылка на Озон →](https://www.ozon.ru/product/complete-guide-to-test-automation-polnoe-rukovodstvo-po-avtomatizatsii-testirovaniya-na-angl-yaz-233323138/)
+#### Complete Guide to Test Automation | Арнон Аксельрод
+
+[Купить на Ozon →](https://www.ozon.ru/product/complete-guide-to-test-automation-polnoe-rukovodstvo-po-avtomatizatsii-testirovaniya-na-angl-yaz-233323138/)
 
 [Купить на Amazon →](https://www.amazon.com/Complete-Guide-Test-Automation-Maintaining/dp/1484238311)
-______
-###  Инструменты
-
-[Charles Proxy](https://www.charlesproxy.com/)
-
-[Postman](https://www.postman.com/)
-______
-###  Подкасты
-
-[Радио тестировщиков](http://radio-qa.com/)
-
-[QAk-QAk — и в продакшен](https://podcast.ru/1591500271)
-
-
-
-
