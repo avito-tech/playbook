@@ -57,30 +57,6 @@
 ![](https://habrastorage.org/webt/cl/jm/ug/cljmugdmtm0naciax9gmwsfrzu4.png)
 
 
-
-# Менеджерский трек
-
-**Состоит из следующих уровней:**
-
-* Team Lead Analyst
-* Division Lead Analyst
-* Unit Lead
-* Head of Analytics
-* Analytics Director
-
-**Все профили описаны по блокам:**
-
-* Команда
-* Зона ответственности
-* Найм
-* Мотивация
-* Наставничество
-* Аналитика как функция
-* Доступный контекст
-
-![](https://habrastorage.org/webt/ci/yp/re/ciyprejzdbgkruqdvq-4h8zqjky.png)
-
-
 # Необходимые условия переходов между уровнями
 
 ## Junior A → A
