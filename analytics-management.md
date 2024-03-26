@@ -2,9 +2,9 @@
 
 # Аналитики: менеджерский трек
 **Менеджерские роли состоят из четырёх уровней:**
-- Team Lead – классический тимлид команды или группы аналитиков.
-- Division Lead – руководитель аналитики одного направления или вертикали. Управляет несколькими командами аналитиков.
-- Head of Analytics – руководитель аналитики нескольких кластеров или вертикалей.
+- [Team Lead](https://github.com/avito-tech/playbook/blob/master/analytics-management.md#team-lead) – классический тимлид команды или группы аналитиков.
+- [Division Lead](https://github.com/avito-tech/playbook/blob/master/analytics-management.md#division-lead) – руководитель аналитики одного направления или вертикали. Управляет несколькими командами аналитиков.
+- [Head of Analytics](https://github.com/avito-tech/playbook/blob/master/analytics-management.md#head-of-analytics) – руководитель аналитики нескольких кластеров или вертикалей.
 - Analytics Director – директор всей функции аналитики Авито.
 
 **Что вкладываем в описание компетенций:**
