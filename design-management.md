@@ -1,6 +1,6 @@
 # Матрица компетенций руководителей дизайна
-- Team Lead
-- Арт-директор
+- [Team Lead](https://github.com/avito-tech/playbook/blob/master/design-management.md#team-lead)
+- [Арт-директор](https://github.com/avito-tech/playbook/blob/master/design-management.md#арт-директор)
 ## Team Lead
 ### Качества лидера_Драйвер
 - Заставляет команду думать шире.
