@@ -4,6 +4,8 @@
 ## Управление продуктом
 #### Lean Startup | Eric Ries
 
+[Мы - то, что мы делаем| Бен Хоровиц](https://www.mann-ivanov-ferber.ru/catalog/product/my-to-chto-my-delaem/?srsltid=AfmBOoqOxBUusEN8-Uj1sdZyYmvyW613hPf5h9pu3-pS2tFZQ-KA3F7j)
+
 [Купить на Amazon →](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
 [Купить на Ozon (на русском языке)→](https://www.ozon.ru/product/biznes-s-nulya-metod-lean-startup-dlya-bystrogo-testirovaniya-idey-i-vybora-biznes-modeli-8-e-izd-479034894/) 
