@@ -36,26 +36,49 @@ MAU	 | 50 миллионов человек
 Картинок в хранилище | 28 миллиардов
 ***
 
+# Состав репозитория Авито playbook
 
-# Куда смотреть дальше? 
+**Культура компании**
 
-- [Миссия и ценности Авито](https://github.com/avito-tech/playbook/blob/master/mission-and-values.md)
-- [Структура команд](https://github.com/avito-tech/playbook/blob/master/structure.md)
-- [Профили (уровни) инженеров в Авито](https://github.com/avito-tech/playbook/blob/master/developer-profile.md)
-- [Профили технических менеджеров (лидов) в Авито](https://github.com/avito-tech/playbook/blob/master/techlead-profile.md)
-- [Профили аналитиков](https://github.com/avito-tech/playbook/blob/master/analytics-levels.md)
-- [Профили QA](https://github.com/avito-tech/playbook/blob/master/QA-profile.md)
-- [Процессы и стандарты в команде разработки](https://github.com/avito-tech/playbook/blob/master/processes-and-standards.md)
-- [Принципы разработки](https://github.com/avito-tech/playbook/blob/master/development-principles.md)
-- [Соседское соглашение](https://github.com/avito-tech/playbook/blob/master/neighborhood-agreement.md)
-- [Инженерные практики](https://github.com/avito-tech/playbook/blob/master/avito-developer-practice.md)
-- [Целеполагание по OKR и процесс Performance Review](https://github.com/avito-tech/playbook/blob/master/goal-setting.md)
-- [Опенсорс-проекты сотрудников Авито](https://github.com/avito-tech/playbook/blob/master/avito-open-source.md) 
-- [Условия работы и как к нам попасть](https://github.com/avito-tech/playbook/blob/master/recruitment-and-office.md)
-- [Матрица компетенций дизайнеров](https://github.com/avito-tech/playbook/blob/master/design-levels.md)
-- [Матрица компетенций руководителей дизайна](https://github.com/avito-tech/playbook/blob/master/design-management.md)
-- [Профили продакт-менеджеров](https://github.com/avito-tech/playbook/blob/master/product-levels.md)
-- [Обучение и развитие в команде](https://github.com/avito-tech/playbook/blob/master/training-and-development.md) 
-- [История Авито](https://github.com/avito-tech/playbook/blob/master/avito-history.md)
-- [Образовательные программы для студентов и молодых специалистов](https://github.com/avito-tech/playbook/blob/master/students.md)
+- [История компании Авито](avito-history.md)
+- [Миссия и ценности Авито](mission-and-values.md)
+- [Соседское соглашение](neighborhood-agreement.md)
+- [Структура команд](structure.md)
+- [Опенсорс-проекты сотрудников Авито](avito-open-source.md)
 
+**Развитие и карьера**
+
+- [Условия работы и как к нам попасть](recruitment-and-office.md)
+- [Студентам и молодым специалистам](students.md)
+- [Обучение и развитие сотрудников](training-and-development.md)
+- [Полезные книги по направлениям](books.md)
+
+**Процессы, стандарты и инструменты**
+
+- [Целеполагание по OKR и процесс Performance Review](goal-setting.md)
+- [SPT: работа с обращениями пользователей](spt.md)
+
+Разработка
+
+- [Процессы и стандарты в команде разработки](processes-and-standards.md)
+- [Инженерные практики](avito-developer-practice.md)
+- [Принципы разработки](development-principles.md)
+- [Ревью технического дизайна](tech_design_review.md)
+- [Платформа разработки Авито](avito-paas.md)
+
+**Профили, роли и матрицы компетенций**
+
+Экспертный трек
+
+- [Инженеры](developer-profile.md)
+- [Аналитики](analytics-levels.md)
+- [QA-инженеры](QA-profile.md)
+- [DS-инженеры](ds-skills.md)
+
+Менеджерский трек
+
+- [Технические менеджеры (лиды)](techlead-profile.md)
+- [Аналитики](analytics-management.md)
+- [Продакт менеджеры](product-levels.md)
+- [Руководители дизайна](design-management.md)
+- [DS-менеджеры](ds-managers-profiles.md)
