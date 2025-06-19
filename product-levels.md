@@ -1,8 +1,8 @@
 # Профили продакт-менеджеров
-- [Junior Product / Bootcamper](https://github.com/avito-tech/playbook/blob/master/product-levels.md#junior-product--bootcamper)
-- [Middle Product](https://github.com/avito-tech/playbook/blob/master/product-levels.md#middle-product)
-- [Senior Product](https://github.com/avito-tech/playbook/blob/master/product-levels.md#senior-product)
-- [Principal Product](https://github.com/avito-tech/playbook/blob/master/product-levels.md#principal-product)
+- [Junior Product / Bootcamper](#junior-product--bootcamper)
+- [Middle Product](#middle-product)
+- [Senior Product](#senior-product)
+- [Principal Product](#principal-product)
 
 ## Junior Product / Bootcamper
 ### Формирование долгосрочного продуктового видения

@@ -1,6 +1,6 @@
 # Профили инженеров
 
-Профили инженеров нужны для того, чтобы оценивать коллег на [performance review](https://github.com/avito-tech/playbook/blob/master/goal-setting.md#performance-review). Это делает продвижение по карьерной лестнице понятным и прозрачным. 
+Профили инженеров нужны для того, чтобы оценивать коллег на [performance review](../goal-setting.md#performance-review). Это делает продвижение по карьерной лестнице понятным и прозрачным. 
 
 Мы обновили карьерную линейку инженеров с осени 2021 и изменили уровни, чтобы они лучше отражали действительность, а людям было проще расти. Посмотреть прошлые профили можно в старой версии проекта. 
 
@@ -20,14 +20,14 @@
 - Как менеджер, который достигает результата через управление людьми или командами.
 
 Сейчас в Авито существуют такие уровни:
-- [E1.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#E1)
-- [E2.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#E2) 
-- [E3.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#E3)
-- [E4.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#E4)
-- [E5.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#E5)
-- [E6.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#E6)
-- [E7.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#E7)
-- [E8.](https://github.com/avito-tech/playbook/blob/master/developer-profile.md#E8)
+- [E1.](#e1)
+- [E2.](#e2) 
+- [E3.](#e3)
+- [E4.](#e4)
+- [E5.](#e5)
+- [E6.](#e6)
+- [E7.](#e7)
+- [E8.](#e8)
 
 Все профили описаны по блокам:
 - Экспертность.

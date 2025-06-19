@@ -1,8 +1,8 @@
 # Матрица компетенций дизайнеров
-- [Junior](https://github.com/avito-tech/playbook/blob/master/design-levels.md#junior)
-- [Middle](https://github.com/avito-tech/playbook/blob/master/design-levels.md#middle)
-- [Senior](https://github.com/avito-tech/playbook/blob/master/design-levels.md#senior)
-- [Lead](https://github.com/avito-tech/playbook/blob/master/design-levels.md#lead)
+- [Junior](#junior)
+- [Middle](#middle)
+- [Senior](#senior)
+- [Lead](#lead)
 
 ## Junior
 ### Знание продукта
