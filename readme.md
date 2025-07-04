@@ -70,16 +70,15 @@
 
 ### Экспертный трек
 
-- [Инженеры](profiles/developer-skills.md)
-- [Аналитики](profiles/analytics-skills.md)
-- [QA-инженеры](profiles/qa-skills.md)
-- [DS-инженеры](profiles/ds-skills.md)
+- [Инженеры](developer-profile.md)
+- [Аналитики](analytics-levels.md)
+- [QA-инженеры](QA-profile.md)
+- [DS-инженеры](ds-skills.md)
 
 ### Менеджерский трек
 
-- [Технические менеджеры (лиды)](profiles/tech-managers.md)
-- [Аналитики](profiles/analytics-managers.md)
+- [Технические менеджеры (лиды)](techlead-profile.md)
+- [Аналитики](analytics-management.md)
 - [Продакт менеджеры](product-levels.md)
-- [Руководители дизайна](profiles/design-managers.md)
-- [DS-менеджеры](profiles/ds-managers.md)
-
+- [Руководители дизайна](design-management.md)
+- [DS-менеджеры](ds-managers-profiles.md)
