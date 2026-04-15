@@ -3,6 +3,7 @@
 
 ## Управление продуктом
 #### Lean Startup | Eric Ries
+[Материалы С.Тихомирова](https://productframework.ru/)
 
 [Мы - то, что мы делаем| Бен Хоровиц](https://www.mann-ivanov-ferber.ru/catalog/product/my-to-chto-my-delaem/?srsltid=AfmBOoqOxBUusEN8-Uj1sdZyYmvyW613hPf5h9pu3-pS2tFZQ-KA3F7j)
 
