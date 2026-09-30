@@ -59,7 +59,7 @@ jobs:
             FAIL_FLAG="--fail-on-error"
           fi
           TARGET_PATH="${{ github.event.inputs.target_path || '.' }}"
-          docs-validator scan "$TARGET_PATH" --validate $FAIL_FLAG --report markdown --output docs-validation-report.md
+          docs_validator scan "$TARGET_PATH" --validate $FAIL_FLAG --report markdown --output docs-validation-report.md
 
       - name: Upload validation report
         if: always()
